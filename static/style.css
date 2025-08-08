@@ -17,16 +17,20 @@ body {
     }
 }
 
-
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
 .container {
     padding: 0 20px;
     text-align: center;
 }
 
 a{
+    color: #5505a6;
     /* color: #7022d2; */
-    color: #9917a8 ;
-    /* color: #ac0a68 ; */
+    /* color: #9917a8 ;
+    color: #ac0a68 ; */
 }
 
 a.link-to-content{
